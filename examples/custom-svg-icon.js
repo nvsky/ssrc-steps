@@ -1,25 +1,28 @@
 webpackJsonp([9],{
 
-/***/ 21:
+/***/ 130:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(22);
+module.exports = __webpack_require__(131);
 
 
 /***/ }),
 
-/***/ 22:
+/***/ 131:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-throw new Error("Cannot find module \"rc-steps/assets/index.less\"");
-throw new Error("Cannot find module \"rc-steps/assets/iconfont.less\"");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_ssrc_steps_assets_index_less__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_ssrc_steps_assets_index_less___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_ssrc_steps_assets_index_less__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ssrc_steps_assets_iconfont_less__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ssrc_steps_assets_iconfont_less___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_ssrc_steps_assets_iconfont_less__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_react__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react_dom__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react_dom__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react_dom___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_react_dom__);
-throw new Error("Cannot find module \"rc-steps\"");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_ssrc_steps__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_ssrc_steps___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_ssrc_steps__);
 
 
 
@@ -64,14 +67,14 @@ var icons = {
 };
 
 __WEBPACK_IMPORTED_MODULE_3_react_dom___default.a.render(__WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement(
-  __WEBPACK_IMPORTED_MODULE_4_rc_steps___default.a,
+  __WEBPACK_IMPORTED_MODULE_4_ssrc_steps___default.a,
   { current: 1, status: 'error', icons: icons },
-  __WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4_rc_steps__["Step"], { title: 'Finished', description: 'This is a description' }),
-  __WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4_rc_steps__["Step"], { title: 'In Process', description: 'This is a description' }),
-  __WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4_rc_steps__["Step"], { title: 'Waiting', description: 'This is a description' })
+  __WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4_ssrc_steps__["Step"], { title: 'Finished', description: 'This is a description' }),
+  __WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4_ssrc_steps__["Step"], { title: 'In Process', description: 'This is a description' }),
+  __WEBPACK_IMPORTED_MODULE_2_react___default.a.createElement(__WEBPACK_IMPORTED_MODULE_4_ssrc_steps__["Step"], { title: 'Waiting', description: 'This is a description' })
 ), document.getElementById('__react-content'));
 
 /***/ })
 
-},[21]);
+},[130]);
 //# sourceMappingURL=custom-svg-icon.js.map
